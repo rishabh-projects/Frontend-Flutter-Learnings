@@ -1,4 +1,4 @@
-## Build Mobile Web Applications With Flutter
+## Build Applications With Flutter
 
 Flutter is an application framework used for building beautiful, natively compiled apps for mobile, web, and desktop from a single codebase. Develop fast with fully-customizable widgets and Stateful Hot Reload, ship features quickly with an expressive and flexible UI, and get full native performance with widgets that incorporate all critical platform differences. In this skill path you will learn the foundational knowledge needed to get started with Flutter and how to expand upon those features as you progress through the courses.
 
